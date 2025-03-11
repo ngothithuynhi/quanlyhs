@@ -8,7 +8,7 @@ package com.mycompany.student;
  * @author minh
  */
 public class Student {
-
+//nhinhi
     private String studentId;
     private String name;
     private int age;
